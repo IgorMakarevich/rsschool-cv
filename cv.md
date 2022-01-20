@@ -7,7 +7,7 @@ Hi, my name is Igor, I am 24 years old and I am a novice frontend developer from
 * VS Code
 ## Code Example:
 ```
- <nav class="navigation">
+          <nav class="navigation">
             <ul class="menu">
               <li class="item_menu">
                 <a class="link_menu" href="#about_me">about me</a>
