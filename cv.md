@@ -23,7 +23,6 @@ Hi, my name is Igor, I am 24 years old and I am a novice frontend developer from
 ```
 ## Education:
 * **Courses:**
-* 
     + HTML Academy
     + RS School - in progress
 ## Languages:
